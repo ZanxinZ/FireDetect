@@ -2,7 +2,7 @@
 
 This is a App for the fire detecting small system.
 
-### Functionality
+### Features:
 - Got data from the microcontroller via the Bluetooth modual.
 - Plot the 'tempture' value in the chart.
 - Plot the 'somke' density value in the chart.
